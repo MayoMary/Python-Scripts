@@ -1,3 +1,3 @@
-# Python-Scripts
-My python code for Exercises 3 - 6.
+# Practice
+My python code for lectures.
 Also some of the extra examples which Ian gave us.
